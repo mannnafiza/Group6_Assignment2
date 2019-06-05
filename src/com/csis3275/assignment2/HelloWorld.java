@@ -6,7 +6,17 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 		
+
 		String aman = "Amanpreet Singh";
+
+
+		String kulbir = "Kulbir Kaur";
+
+		
+		String nafiza = "Nafiza Mann";
+
+	
+		
 	}
 
 }
