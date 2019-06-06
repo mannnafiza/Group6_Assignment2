@@ -36,7 +36,19 @@ public class HelloWorld {
 				
 		//String nafiza = "Nafiza Mann";
 		
+
 		int kulbirId = 300287031;
+
+
+		int nafizaId = 300287400;
+
+
+		int amanID = 300278627;
+
+		int kulbirID = 300287031;
+
+
+
 	
 		
 	}
